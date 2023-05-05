@@ -1,4 +1,4 @@
-<h3>Minigame Wolf catches egg in Python🇺</h3>
+<h2>Minigame Wolf catches egg in Python</h2>
 
 * git clone https://github.com/knurhat04/wolfegg.git
 * cd wolfegg
